@@ -1,0 +1,6 @@
+id : "net.moeyuki.mirai.mirai-console-nbnhhsh"
+name: "mirai-console-nbnhhsh"
+version: "0.1.0"
+author: yuki
+dependencies: []
+info: 将拼音缩写还原为完整表述
